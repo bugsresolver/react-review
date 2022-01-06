@@ -5,7 +5,10 @@ export class MyProps extends React.Component{
         console.log(this);
         console.log(this.props.name);
         return (
-            <div>props</div>
+            <div>
+                props
+
+            </div>
         )
     }
 }
